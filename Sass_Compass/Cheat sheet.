@@ -1,0 +1,4 @@
+
+
+To run the code dans style
+$ sass --watch Sass/style.scss:Css/style.scss
