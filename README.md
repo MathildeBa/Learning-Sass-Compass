@@ -27,15 +27,15 @@ This project is just about to learn Sass his framework Compass.
  
  - [X] import of inheritance  
  
- - [] fonction and mixins  
+ - [ ] fonction and mixins  
  
- - [] compass configuration  
+ - [ ] compass configuration  
  
- - [] variables, fonctions, mixinx  
+ - [ ] variables, fonctions, mixinx  
  
- - [] sprites  
+ - [ ] sprites  
  
- - [] style of outings  
+ - [ ] style of outings  
  
 
 
@@ -48,9 +48,12 @@ $ sass --watch Sass:Css
 ```
 
 ## Built With
--HTML5
--CSS3
--scss
+-HTML5  
+
+-CSS3  
+
+-scss  
+
 
 
 ## Organisation 📆
